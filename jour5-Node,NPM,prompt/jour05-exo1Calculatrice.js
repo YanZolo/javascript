@@ -21,3 +21,32 @@ function calculatrice(nb1,op,nb2) {
 }
 
 calculatrice(parseInt(process.argv[2]),process.argv[3],parseInt(process.argv[4]));
+// 0
+
+// console.log(process.argv);
+
+// function personne(name, age, adress) {
+//     console.log("votre nom est "+ name);
+//     console.log("votre age est "+ age);
+//     console.log("votre adresse est "+ adress);
+//     parseInt(age);
+//     console.log(typeof age)
+// }
+ 
+// personne("paris", "20", "semou");
+
+// variableCalc();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
